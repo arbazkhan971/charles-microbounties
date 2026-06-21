@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/web-infra-dev/rsbuild.git"
+  },
+  "homepage": "https://github.com/web-infra-dev/rsbuild.git#readme",
+  "bugs": {
+    "url": "https://github.com/web-infra-dev/rsbuild/issues"
   }
 }
