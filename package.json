@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/Dlocs-Tech/card-app-sdk.git"
+  },
+  "homepage": "https://github.com/Dlocs-Tech/card-app-sdk.git#readme",
+  "bugs": {
+    "url": "https://github.com/Dlocs-Tech/card-app-sdk/issues"
   }
 }
