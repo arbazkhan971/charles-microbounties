@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/BRAVO68WEB/node-config.git"
+  },
+  "homepage": "https://github.com/BRAVO68WEB/node-config.git#readme",
+  "bugs": {
+    "url": "https://github.com/BRAVO68WEB/node-config/issues"
   }
 }
