@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/jaid/tsconfig-jaid.git"
+  },
+  "homepage": "https://github.com/jaid/tsconfig-jaid.git#readme",
+  "bugs": {
+    "url": "https://github.com/jaid/tsconfig-jaid/issues"
   }
 }
