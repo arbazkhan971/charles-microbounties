@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/baianat/color-fns.git"
+  },
+  "homepage": "https://github.com/baianat/color-fns.git#readme",
+  "bugs": {
+    "url": "https://github.com/baianat/color-fns/issues"
   }
 }
