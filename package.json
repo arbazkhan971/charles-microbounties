@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/AlexAegis/js-tooling.git"
+  },
+  "homepage": "https://github.com/AlexAegis/js-tooling.git#readme",
+  "bugs": {
+    "url": "https://github.com/AlexAegis/js-tooling/issues"
   }
 }
