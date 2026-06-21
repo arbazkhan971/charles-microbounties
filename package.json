@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/luxass/unplugin-yaml.git"
+  },
+  "homepage": "https://github.com/luxass/unplugin-yaml.git#readme",
+  "bugs": {
+    "url": "https://github.com/luxass/unplugin-yaml/issues"
   }
 }
