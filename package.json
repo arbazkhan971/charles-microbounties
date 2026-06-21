@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/algomnt/docusaurus-plugin-script-tags.git"
+  },
+  "homepage": "https://github.com/algomnt/docusaurus-plugin-script-tags.git#readme",
+  "bugs": {
+    "url": "https://github.com/algomnt/docusaurus-plugin-script-tags/issues"
   }
 }
