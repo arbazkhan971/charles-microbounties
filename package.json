@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/PuruVJ/vite-preset-react.git"
+  },
+  "homepage": "https://github.com/PuruVJ/vite-preset-react.git#readme",
+  "bugs": {
+    "url": "https://github.com/PuruVJ/vite-preset-react/issues"
   }
 }
