@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/etler/remark-unravel-mdx.git"
+  },
+  "homepage": "https://github.com/etler/remark-unravel-mdx.git#readme",
+  "bugs": {
+    "url": "https://github.com/etler/remark-unravel-mdx/issues"
   }
 }
