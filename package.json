@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/timdp/esbuild-plugin-import-pattern.git"
+  },
+  "homepage": "https://github.com/timdp/esbuild-plugin-import-pattern.git#readme",
+  "bugs": {
+    "url": "https://github.com/timdp/esbuild-plugin-import-pattern/issues"
   }
 }
