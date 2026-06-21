@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/hllshiro/vue-plugin-architecture.git"
+  },
+  "homepage": "https://github.com/hllshiro/vue-plugin-architecture.git#readme",
+  "bugs": {
+    "url": "https://github.com/hllshiro/vue-plugin-architecture/issues"
   }
 }
