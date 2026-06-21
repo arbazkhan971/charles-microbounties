@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/merceyz/babel-plugin-optimize-clsx.git"
+  },
+  "homepage": "https://github.com/merceyz/babel-plugin-optimize-clsx.git#readme",
+  "bugs": {
+    "url": "https://github.com/merceyz/babel-plugin-optimize-clsx/issues"
   }
 }
