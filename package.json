@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/isdk/ai-test-runner.js.git"
+  },
+  "homepage": "https://github.com/isdk/ai-test-runner.js.git#readme",
+  "bugs": {
+    "url": "https://github.com/isdk/ai-test-runner.js/issues"
   }
 }
