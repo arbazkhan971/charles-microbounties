@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/keverw/lifecycleion.git"
+  },
+  "homepage": "https://github.com/keverw/lifecycleion.git#readme",
+  "bugs": {
+    "url": "https://github.com/keverw/lifecycleion/issues"
   }
 }
