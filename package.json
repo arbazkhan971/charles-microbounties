@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/basmilius/vitepress-plugin-render.git"
+  },
+  "homepage": "https://github.com/basmilius/vitepress-plugin-render.git#readme",
+  "bugs": {
+    "url": "https://github.com/basmilius/vitepress-plugin-render/issues"
   }
 }
