@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/jevakallio/jest-clean-console-reporter.git"
+  },
+  "homepage": "https://github.com/jevakallio/jest-clean-console-reporter.git#readme",
+  "bugs": {
+    "url": "https://github.com/jevakallio/jest-clean-console-reporter/issues"
   }
 }
