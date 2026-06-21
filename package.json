@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/keplersj/jest-raw-loader.git"
+  },
+  "homepage": "https://github.com/keplersj/jest-raw-loader.git#readme",
+  "bugs": {
+    "url": "https://github.com/keplersj/jest-raw-loader/issues"
   }
 }
