@@ -1,0 +1,6 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hankei6km/rehype-remove-empty-paragraph.git"
+  }
+}
