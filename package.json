@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/tscircuit/circuit-to-svg.git"
+  },
+  "homepage": "https://github.com/tscircuit/circuit-to-svg.git#readme",
+  "bugs": {
+    "url": "https://github.com/tscircuit/circuit-to-svg/issues"
   }
 }
