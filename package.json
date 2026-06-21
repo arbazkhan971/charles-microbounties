@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/allure-framework/allure-js/tree/main/packages/allure-js-commons.git"
+  },
+  "homepage": "https://github.com/allure-framework/allure-js/tree/main/packages/allure-js-commons.git#readme",
+  "bugs": {
+    "url": "https://github.com/allure-framework/allure-js/tree/main/packages/allure-js-commons/issues"
   }
 }
