@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/DiFuks/typedoc-theme-hierarchy/pull/38.git"
+  },
+  "homepage": "https://github.com/DiFuks/typedoc-theme-hierarchy/pull/38.git#readme",
+  "bugs": {
+    "url": "https://github.com/DiFuks/typedoc-theme-hierarchy/pull/38/issues"
   }
 }
