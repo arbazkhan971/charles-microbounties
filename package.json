@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/simon360/jest-environment-jsdom-global.git"
+  },
+  "homepage": "https://github.com/simon360/jest-environment-jsdom-global.git#readme",
+  "bugs": {
+    "url": "https://github.com/simon360/jest-environment-jsdom-global/issues"
   }
 }
