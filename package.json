@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/absolutejs/voice-adapters.git"
+  },
+  "homepage": "https://github.com/absolutejs/voice-adapters.git#readme",
+  "bugs": {
+    "url": "https://github.com/absolutejs/voice-adapters/issues"
   }
 }
