@@ -1,6 +1,9 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/anthropics/anthropic-tokenizer-typescript/pull/10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anthropics/anthropic-tokenizer-typescript/pull/10/issues"
   }
 }
