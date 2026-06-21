@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/jest-community/jest-extended/pull/928.git"
+  },
+  "homepage": "https://github.com/jest-community/jest-extended/pull/928.git#readme",
+  "bugs": {
+    "url": "https://github.com/jest-community/jest-extended/pull/928/issues"
   }
 }
