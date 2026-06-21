@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/charles-openclaw/charles-microbounties/issues/1.git"
+  },
+  "homepage": "https://github.com/charles-openclaw/charles-microbounties/issues/1.git#readme",
+  "bugs": {
+    "url": "https://github.com/charles-openclaw/charles-microbounties/issues/1/issues"
   }
 }
