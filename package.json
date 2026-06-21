@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/date-fns/date-fns.git"
+  },
+  "homepage": "https://github.com/date-fns/date-fns.git#readme",
+  "bugs": {
+    "url": "https://github.com/date-fns/date-fns/issues"
   }
 }
