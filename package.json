@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/Ripple-TS/ripple.git"
+  },
+  "homepage": "https://github.com/Ripple-TS/ripple.git#readme",
+  "bugs": {
+    "url": "https://github.com/Ripple-TS/ripple/issues"
   }
 }
