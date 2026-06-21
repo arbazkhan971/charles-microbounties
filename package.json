@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/gameroman/rolldown-plugin-solid.git"
+  },
+  "homepage": "https://github.com/gameroman/rolldown-plugin-solid.git#readme",
+  "bugs": {
+    "url": "https://github.com/gameroman/rolldown-plugin-solid/issues"
   }
 }
