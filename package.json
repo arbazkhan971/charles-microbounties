@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/rixo/rollup-plugin-copy-watch.git"
+  },
+  "homepage": "https://github.com/rixo/rollup-plugin-copy-watch.git#readme",
+  "bugs": {
+    "url": "https://github.com/rixo/rollup-plugin-copy-watch/issues"
   }
 }
