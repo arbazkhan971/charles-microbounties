@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/christophehurpeau/rollup-plugin-svgr.git"
+  },
+  "homepage": "https://github.com/christophehurpeau/rollup-plugin-svgr.git#readme",
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/rollup-plugin-svgr/issues"
   }
 }
