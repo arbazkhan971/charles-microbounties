@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/SukkaW/react-compiler-webpack.git"
+  },
+  "homepage": "https://github.com/SukkaW/react-compiler-webpack.git#readme",
+  "bugs": {
+    "url": "https://github.com/SukkaW/react-compiler-webpack/issues"
   }
 }
