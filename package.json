@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/canbaykar/svelte2react.git"
+  },
+  "homepage": "https://github.com/canbaykar/svelte2react.git#readme",
+  "bugs": {
+    "url": "https://github.com/canbaykar/svelte2react/issues"
   }
 }
