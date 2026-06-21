@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/pathscale/iconify-preload.git"
+  },
+  "homepage": "https://github.com/pathscale/iconify-preload.git#readme",
+  "bugs": {
+    "url": "https://github.com/pathscale/iconify-preload/issues"
   }
 }
