@@ -1,6 +1,6 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NullVoxPopuli/babel-plugin-qunit-lazy-imports.git"
+    "url": "git+https://github.com/frida/rollup-plugin-node-polyfills.git"
   }
 }
