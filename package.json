@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/koajs/koa-body/pull/255.git"
+  },
+  "homepage": "https://github.com/koajs/koa-body/pull/255.git#readme",
+  "bugs": {
+    "url": "https://github.com/koajs/koa-body/pull/255/issues"
   }
 }
