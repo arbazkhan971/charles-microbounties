@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/bloczjs/mdx.git"
+  },
+  "homepage": "https://github.com/bloczjs/mdx.git#readme",
+  "bugs": {
+    "url": "https://github.com/bloczjs/mdx/issues"
   }
 }
