@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/metal/metal.js.git"
+  },
+  "homepage": "https://github.com/metal/metal.js.git#readme",
+  "bugs": {
+    "url": "https://github.com/metal/metal.js/issues"
   }
 }
