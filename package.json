@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/first-fluke/oh-my-agent.git"
+  },
+  "homepage": "https://github.com/first-fluke/oh-my-agent.git#readme",
+  "bugs": {
+    "url": "https://github.com/first-fluke/oh-my-agent/issues"
   }
 }
