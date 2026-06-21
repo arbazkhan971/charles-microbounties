@@ -1,0 +1,6 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcoopman/elm-css-webpack-loader.git"
+  }
+}
