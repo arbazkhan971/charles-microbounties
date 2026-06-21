@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/haoqunjiang/vite-jest.git"
+  },
+  "homepage": "https://github.com/haoqunjiang/vite-jest.git#readme",
+  "bugs": {
+    "url": "https://github.com/haoqunjiang/vite-jest/issues"
   }
 }
