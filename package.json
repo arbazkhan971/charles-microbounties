@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/phuctm97/remark-parse-frontmatter.git"
+  },
+  "homepage": "https://github.com/phuctm97/remark-parse-frontmatter.git#readme",
+  "bugs": {
+    "url": "https://github.com/phuctm97/remark-parse-frontmatter/issues"
   }
 }
