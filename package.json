@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/robrighter/node-xml.git"
+  },
+  "homepage": "https://github.com/robrighter/node-xml.git#readme",
+  "bugs": {
+    "url": "https://github.com/robrighter/node-xml/issues"
   }
 }
