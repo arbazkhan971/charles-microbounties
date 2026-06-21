@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/franckLdx/ts-retry.git"
+  },
+  "homepage": "https://github.com/franckLdx/ts-retry.git#readme",
+  "bugs": {
+    "url": "https://github.com/franckLdx/ts-retry/issues"
   }
 }
