@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/QuantGeekDev/mcp-framework/pull/189.git"
+  },
+  "homepage": "https://github.com/QuantGeekDev/mcp-framework/pull/189.git#readme",
+  "bugs": {
+    "url": "https://github.com/QuantGeekDev/mcp-framework/pull/189/issues"
   }
 }
