@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/frontline-hq/recma-sections/pull/4.git"
+  },
+  "homepage": "https://github.com/frontline-hq/recma-sections/pull/4.git#readme",
+  "bugs": {
+    "url": "https://github.com/frontline-hq/recma-sections/pull/4/issues"
   }
 }
