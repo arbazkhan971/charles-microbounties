@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/ComposioHQ/composio.git"
+  },
+  "homepage": "https://github.com/ComposioHQ/composio.git#readme",
+  "bugs": {
+    "url": "https://github.com/ComposioHQ/composio/issues"
   }
 }
