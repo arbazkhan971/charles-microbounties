@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/cancerberoSgx/typedoc-plugins-of-mine.git"
+  },
+  "homepage": "https://github.com/cancerberoSgx/typedoc-plugins-of-mine.git#readme",
+  "bugs": {
+    "url": "https://github.com/cancerberoSgx/typedoc-plugins-of-mine/issues"
   }
 }
