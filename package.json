@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/javascripter/fontawesome.macro.git"
+  },
+  "homepage": "https://github.com/javascripter/fontawesome.macro.git#readme",
+  "bugs": {
+    "url": "https://github.com/javascripter/fontawesome.macro/issues"
   }
 }
