@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/frontline-hq/sveltekit-i18n.git"
+  },
+  "homepage": "https://github.com/frontline-hq/sveltekit-i18n.git#readme",
+  "bugs": {
+    "url": "https://github.com/frontline-hq/sveltekit-i18n/issues"
   }
 }
