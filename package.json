@@ -1,6 +1,9 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/expo/expo-mcp/pull/23.git"
+  },
+  "bugs": {
+    "url": "https://github.com/expo/expo-mcp/pull/23/issues"
   }
 }
