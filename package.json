@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/quasarframework/quasar.git"
+  },
+  "homepage": "https://github.com/quasarframework/quasar.git#readme",
+  "bugs": {
+    "url": "https://github.com/quasarframework/quasar/issues"
   }
 }
