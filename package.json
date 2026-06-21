@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/antfu/eslint-plugin-antfu.git"
+  },
+  "homepage": "https://github.com/antfu/eslint-plugin-antfu.git#readme",
+  "bugs": {
+    "url": "https://github.com/antfu/eslint-plugin-antfu/issues"
   }
 }
