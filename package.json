@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/jest-community/snapshot-diff.git"
+  },
+  "homepage": "https://github.com/jest-community/snapshot-diff.git#readme",
+  "bugs": {
+    "url": "https://github.com/jest-community/snapshot-diff/issues"
   }
 }
