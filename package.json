@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/Mergifyio/mergify-ci-plugins-ts.git"
+  },
+  "homepage": "https://github.com/Mergifyio/mergify-ci-plugins-ts.git#readme",
+  "bugs": {
+    "url": "https://github.com/Mergifyio/mergify-ci-plugins-ts/issues"
   }
 }
