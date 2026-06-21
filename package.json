@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/LesterLyu/fast-formula-parser.git"
+  },
+  "homepage": "https://github.com/LesterLyu/fast-formula-parser.git#readme",
+  "bugs": {
+    "url": "https://github.com/LesterLyu/fast-formula-parser/issues"
   }
 }
