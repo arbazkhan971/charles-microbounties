@@ -1,6 +1,9 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/arethetypeswrong/arethetypeswrong.github.io/pull/268.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arethetypeswrong/arethetypeswrong.github.io/pull/268/issues"
   }
 }
