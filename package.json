@@ -1,6 +1,6 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-zharkov/monq.git"
+    "url": "git+https://github.com/sinonjs/sinon.git"
   }
 }
