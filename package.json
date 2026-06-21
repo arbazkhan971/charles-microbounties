@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/Pigotz/paapi5-typescript-sdk.git"
+  },
+  "homepage": "https://github.com/Pigotz/paapi5-typescript-sdk.git#readme",
+  "bugs": {
+    "url": "https://github.com/Pigotz/paapi5-typescript-sdk/issues"
   }
 }
