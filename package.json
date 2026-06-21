@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/ttoss/ttoss.git"
+  },
+  "homepage": "https://github.com/ttoss/ttoss.git#readme",
+  "bugs": {
+    "url": "https://github.com/ttoss/ttoss/issues"
   }
 }
