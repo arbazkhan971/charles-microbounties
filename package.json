@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/lirbank/jest-environment-mongodb/pull/29.git"
+  },
+  "homepage": "https://github.com/lirbank/jest-environment-mongodb/pull/29.git#readme",
+  "bugs": {
+    "url": "https://github.com/lirbank/jest-environment-mongodb/pull/29/issues"
   }
 }
