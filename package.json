@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/windmill-labs/windmill.git"
+  },
+  "homepage": "https://github.com/windmill-labs/windmill.git#readme",
+  "bugs": {
+    "url": "https://github.com/windmill-labs/windmill/issues"
   }
 }
