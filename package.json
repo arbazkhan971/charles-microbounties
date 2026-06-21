@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/ueberdosis/tiptap.git"
+  },
+  "homepage": "https://github.com/ueberdosis/tiptap.git#readme",
+  "bugs": {
+    "url": "https://github.com/ueberdosis/tiptap/issues"
   }
 }
