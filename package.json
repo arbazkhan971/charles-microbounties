@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/milanito/yaml-jest-transform.git"
+  },
+  "homepage": "https://github.com/milanito/yaml-jest-transform.git#readme",
+  "bugs": {
+    "url": "https://github.com/milanito/yaml-jest-transform/issues"
   }
 }
