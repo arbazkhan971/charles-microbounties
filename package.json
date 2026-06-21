@@ -1,0 +1,6 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradebarrows/koa-throttle2.git"
+  }
+}
