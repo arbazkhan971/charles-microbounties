@@ -1,6 +1,6 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IonicaBizau/git-package-json.git"
+    "url": "git+https://github.com/foad/eslint-plugin-listeners.git"
   }
 }
