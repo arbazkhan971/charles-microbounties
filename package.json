@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/cloud-ru-tech/frontend-tools.git"
+  },
+  "homepage": "https://github.com/cloud-ru-tech/frontend-tools.git#readme",
+  "bugs": {
+    "url": "https://github.com/cloud-ru-tech/frontend-tools/issues"
   }
 }
