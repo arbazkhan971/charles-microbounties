@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/kurrent-io/Design-System.git"
+  },
+  "homepage": "https://github.com/kurrent-io/Design-System.git#readme",
+  "bugs": {
+    "url": "https://github.com/kurrent-io/Design-System/issues"
   }
 }
