@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/damianstasik/vite-svg/pull/108.git"
+  },
+  "homepage": "https://github.com/damianstasik/vite-svg/pull/108.git#readme",
+  "bugs": {
+    "url": "https://github.com/damianstasik/vite-svg/pull/108/issues"
   }
 }
