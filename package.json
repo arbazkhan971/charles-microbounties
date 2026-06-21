@@ -1,6 +1,6 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yannickcr/gulp-jscpd.git"
+    "url": "git+https://github.com/DeMoorJasper/parcel-plugin-svelte.git"
   }
 }
