@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/diyorbek/syllabize-uz.git"
+  },
+  "homepage": "https://github.com/diyorbek/syllabize-uz.git#readme",
+  "bugs": {
+    "url": "https://github.com/diyorbek/syllabize-uz/issues"
   }
 }
