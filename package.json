@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/shaine/inverse-dot/pull/2.git"
+  },
+  "homepage": "https://github.com/shaine/inverse-dot/pull/2.git#readme",
+  "bugs": {
+    "url": "https://github.com/shaine/inverse-dot/pull/2/issues"
   }
 }
