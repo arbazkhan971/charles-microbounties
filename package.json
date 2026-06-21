@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/tadayosi/parcel-plugin-concat.git"
+  },
+  "homepage": "https://github.com/tadayosi/parcel-plugin-concat.git#readme",
+  "bugs": {
+    "url": "https://github.com/tadayosi/parcel-plugin-concat/issues"
   }
 }
