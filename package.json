@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/buildo/eslint-plugin-fp-ts.git"
+  },
+  "homepage": "https://github.com/buildo/eslint-plugin-fp-ts.git#readme",
+  "bugs": {
+    "url": "https://github.com/buildo/eslint-plugin-fp-ts/issues"
   }
 }
