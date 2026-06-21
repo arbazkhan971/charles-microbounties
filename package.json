@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/dhaspden/nestjs-stripe.git"
+  },
+  "homepage": "https://github.com/dhaspden/nestjs-stripe.git#readme",
+  "bugs": {
+    "url": "https://github.com/dhaspden/nestjs-stripe/issues"
   }
 }
