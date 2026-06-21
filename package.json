@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/backstage/backstage.git"
+  },
+  "homepage": "https://github.com/backstage/backstage.git#readme",
+  "bugs": {
+    "url": "https://github.com/backstage/backstage/issues"
   }
 }
