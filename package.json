@@ -1,6 +1,6 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NullVoxPopuli/babel-plugin-qunit-lazy-imports.git"
+    "url": "git+https://github.com/JonasBa/eslint-plugin-no-lookahead-lookbehind-regexp.git"
   }
 }
