@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/workglow-dev/libs/pull/582.git"
+  },
+  "homepage": "https://github.com/workglow-dev/libs/pull/582.git#readme",
+  "bugs": {
+    "url": "https://github.com/workglow-dev/libs/pull/582/issues"
   }
 }
