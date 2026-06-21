@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/filipsobol/sonda.git"
+  },
+  "homepage": "https://github.com/filipsobol/sonda.git#readme",
+  "bugs": {
+    "url": "https://github.com/filipsobol/sonda/issues"
   }
 }
