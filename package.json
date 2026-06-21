@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/sebagnz/tailwindcss-border-image.git"
+  },
+  "homepage": "https://github.com/sebagnz/tailwindcss-border-image.git#readme",
+  "bugs": {
+    "url": "https://github.com/sebagnz/tailwindcss-border-image/issues"
   }
 }
