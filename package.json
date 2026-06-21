@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/babel/babel.git"
+  },
+  "homepage": "https://github.com/babel/babel.git#readme",
+  "bugs": {
+    "url": "https://github.com/babel/babel/issues"
   }
 }
