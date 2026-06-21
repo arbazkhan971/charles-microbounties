@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/dragermrb/capacitor-plugin-video-editor.git"
+  },
+  "homepage": "https://github.com/dragermrb/capacitor-plugin-video-editor.git#readme",
+  "bugs": {
+    "url": "https://github.com/dragermrb/capacitor-plugin-video-editor/issues"
   }
 }
