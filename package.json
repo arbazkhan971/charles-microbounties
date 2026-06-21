@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/microsoft/esm-url-bundler-plugins/pull/31.git"
+  },
+  "homepage": "https://github.com/microsoft/esm-url-bundler-plugins/pull/31.git#readme",
+  "bugs": {
+    "url": "https://github.com/microsoft/esm-url-bundler-plugins/pull/31/issues"
   }
 }
