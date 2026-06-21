@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/theneva/jest-environment-jsdom-thirteen.git"
+  },
+  "homepage": "https://github.com/theneva/jest-environment-jsdom-thirteen.git#readme",
+  "bugs": {
+    "url": "https://github.com/theneva/jest-environment-jsdom-thirteen/issues"
   }
 }
