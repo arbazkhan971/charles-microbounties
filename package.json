@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/TanStack/router.git"
+  },
+  "homepage": "https://github.com/TanStack/router.git#readme",
+  "bugs": {
+    "url": "https://github.com/TanStack/router/issues"
   }
 }
