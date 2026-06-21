@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/winor30/mcp-server-datadog.git"
+  },
+  "homepage": "https://github.com/winor30/mcp-server-datadog.git#readme",
+  "bugs": {
+    "url": "https://github.com/winor30/mcp-server-datadog/issues"
   }
 }
