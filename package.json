@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/DSchau/jest-preset-typescript.git"
+  },
+  "homepage": "https://github.com/DSchau/jest-preset-typescript.git#readme",
+  "bugs": {
+    "url": "https://github.com/DSchau/jest-preset-typescript/issues"
   }
 }
