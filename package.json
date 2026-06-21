@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/OffchainLabs/config-monorepo.git"
+  },
+  "homepage": "https://github.com/OffchainLabs/config-monorepo.git#readme",
+  "bugs": {
+    "url": "https://github.com/OffchainLabs/config-monorepo/issues"
   }
 }
