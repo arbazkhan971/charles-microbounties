@@ -1,6 +1,7 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
-  }
+    "url": "git+https://github.com/cloudflare/agents/tree/main/packages/create-think.git"
+  },
+  "homepage": "https://github.com/cloudflare/agents/tree/main/packages/create-think.git#readme"
 }
