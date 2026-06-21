@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/shufo/prettier-plugin-blade.git"
+  },
+  "homepage": "https://github.com/shufo/prettier-plugin-blade.git#readme",
+  "bugs": {
+    "url": "https://github.com/shufo/prettier-plugin-blade/issues"
   }
 }
