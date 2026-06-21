@@ -1,6 +1,6 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epaew/eslint-plugin-filenames-simple.git"
+    "url": "git+https://github.com/RimacTechnology/semantic-release-ecr.git"
   }
 }
