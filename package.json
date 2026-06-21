@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/deepkit/deepkit-framework.git"
+  },
+  "homepage": "https://github.com/deepkit/deepkit-framework.git#readme",
+  "bugs": {
+    "url": "https://github.com/deepkit/deepkit-framework/issues"
   }
 }
