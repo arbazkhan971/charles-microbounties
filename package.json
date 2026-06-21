@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/vuejs/vue-jest.git"
+  },
+  "homepage": "https://github.com/vuejs/vue-jest.git#readme",
+  "bugs": {
+    "url": "https://github.com/vuejs/vue-jest/issues"
   }
 }
