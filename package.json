@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/elecdeer/storybook-addon-source-link.git#main.git"
+  },
+  "homepage": "https://github.com/elecdeer/storybook-addon-source-link.git#main.git#readme",
+  "bugs": {
+    "url": "https://github.com/elecdeer/storybook-addon-source-link.git#main/issues"
   }
 }
