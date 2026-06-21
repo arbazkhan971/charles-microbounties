@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/grafana/eslint-config-grafana.git"
+  },
+  "homepage": "https://github.com/grafana/eslint-config-grafana.git#readme",
+  "bugs": {
+    "url": "https://github.com/grafana/eslint-config-grafana/issues"
   }
 }
