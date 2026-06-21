@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/jonaskello/tsconfig-paths-webpack-plugin.git"
+  },
+  "homepage": "https://github.com/jonaskello/tsconfig-paths-webpack-plugin.git#readme",
+  "bugs": {
+    "url": "https://github.com/jonaskello/tsconfig-paths-webpack-plugin/issues"
   }
 }
