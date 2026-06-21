@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/sammccord/parcel-plugin-overwolf.git"
+  },
+  "homepage": "https://github.com/sammccord/parcel-plugin-overwolf.git#readme",
+  "bugs": {
+    "url": "https://github.com/sammccord/parcel-plugin-overwolf/issues"
   }
 }
