@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/standard-config/oxlint/issues.git"
+  },
+  "homepage": "https://github.com/standard-config/oxlint/issues.git#readme",
+  "bugs": {
+    "url": "https://github.com/standard-config/oxlint/issues/issues"
   }
 }
