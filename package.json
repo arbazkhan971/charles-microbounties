@@ -1,6 +1,9 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/sholzmayer/jest-performance-reporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sholzmayer/jest-performance-reporter/issues"
   }
 }
