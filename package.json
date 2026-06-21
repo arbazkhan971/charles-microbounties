@@ -1,6 +1,9 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/CrowdStrike/aidr-google-js-genai/pull/6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CrowdStrike/aidr-google-js-genai/pull/6/issues"
   }
 }
