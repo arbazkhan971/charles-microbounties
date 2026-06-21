@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/mAAdhaTTah/babel-plugin-prismjs/pull/351.git"
+  },
+  "homepage": "https://github.com/mAAdhaTTah/babel-plugin-prismjs/pull/351.git#readme",
+  "bugs": {
+    "url": "https://github.com/mAAdhaTTah/babel-plugin-prismjs/pull/351/issues"
   }
 }
