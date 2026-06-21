@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/pakholeung37/vite-plugin-vue2-svg.git"
+  },
+  "homepage": "https://github.com/pakholeung37/vite-plugin-vue2-svg.git#readme",
+  "bugs": {
+    "url": "https://github.com/pakholeung37/vite-plugin-vue2-svg/issues"
   }
 }
