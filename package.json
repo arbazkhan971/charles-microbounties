@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/keik/rollup-plugin-eco.git"
+  },
+  "homepage": "https://github.com/keik/rollup-plugin-eco.git#readme",
+  "bugs": {
+    "url": "https://github.com/keik/rollup-plugin-eco/issues"
   }
 }
