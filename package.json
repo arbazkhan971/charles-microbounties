@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/leo-buneev/eslint-plugin-sort-keys-fix.git"
+  },
+  "homepage": "https://github.com/leo-buneev/eslint-plugin-sort-keys-fix.git#readme",
+  "bugs": {
+    "url": "https://github.com/leo-buneev/eslint-plugin-sort-keys-fix/issues"
   }
 }
