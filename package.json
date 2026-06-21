@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/sendgrid/sendgrid-nodejs.git"
+  },
+  "homepage": "https://github.com/sendgrid/sendgrid-nodejs.git#readme",
+  "bugs": {
+    "url": "https://github.com/sendgrid/sendgrid-nodejs/issues"
   }
 }
