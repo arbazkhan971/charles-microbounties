@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/samuelmeuli/prettier-config.git"
+  },
+  "homepage": "https://github.com/samuelmeuli/prettier-config.git#readme",
+  "bugs": {
+    "url": "https://github.com/samuelmeuli/prettier-config/issues"
   }
 }
