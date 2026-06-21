@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/porada/prettier-plugin-yaml.git"
+  },
+  "homepage": "https://github.com/porada/prettier-plugin-yaml.git#readme",
+  "bugs": {
+    "url": "https://github.com/porada/prettier-plugin-yaml/issues"
   }
 }
