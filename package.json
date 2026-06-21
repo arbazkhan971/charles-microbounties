@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/uphold/commitlint-config-uphold.git"
+  },
+  "homepage": "https://github.com/uphold/commitlint-config-uphold.git#readme",
+  "bugs": {
+    "url": "https://github.com/uphold/commitlint-config-uphold/issues"
   }
 }
