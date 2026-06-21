@@ -1,6 +1,9 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/fabien0102/openapi-codegen/pull/338.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fabien0102/openapi-codegen/pull/338/issues"
   }
 }
