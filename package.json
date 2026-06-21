@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/ntucker/anansi/tree/master/packages/jest-preset-anansi.git"
+  },
+  "homepage": "https://github.com/ntucker/anansi/tree/master/packages/jest-preset-anansi.git#readme",
+  "bugs": {
+    "url": "https://github.com/ntucker/anansi/tree/master/packages/jest-preset-anansi/issues"
   }
 }
