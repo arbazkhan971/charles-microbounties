@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/dosentmatter/babel-plugin-const-enum.git"
+  },
+  "homepage": "https://github.com/dosentmatter/babel-plugin-const-enum.git#readme",
+  "bugs": {
+    "url": "https://github.com/dosentmatter/babel-plugin-const-enum/issues"
   }
 }
