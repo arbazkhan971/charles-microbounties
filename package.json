@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/pmndrs/its-fine/pull/42.git"
+  },
+  "homepage": "https://github.com/pmndrs/its-fine/pull/42.git#readme",
+  "bugs": {
+    "url": "https://github.com/pmndrs/its-fine/pull/42/issues"
   }
 }
