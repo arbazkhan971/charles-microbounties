@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/bugsnag/bugsnag-js.git"
+  },
+  "homepage": "https://github.com/bugsnag/bugsnag-js.git#readme",
+  "bugs": {
+    "url": "https://github.com/bugsnag/bugsnag-js/issues"
   }
 }
