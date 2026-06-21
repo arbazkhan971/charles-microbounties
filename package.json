@@ -1,6 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denodev/typedoc-plugin-deno.git"
+    "url": "git+https://github.com/adam2am/svelte-preprocess-with-civet.git"
+  },
+  "homepage": "https://github.com/adam2am/svelte-preprocess-with-civet.git#readme",
+  "bugs": {
+    "url": "https://github.com/adam2am/svelte-preprocess-with-civet/issues"
   }
 }
